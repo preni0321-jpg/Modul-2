@@ -1,5 +1,4 @@
-# Modul-2
-- Relasi,Fungsi,Sistem Bilangan,dan Teori Bilangan
+# Modul-2 : Relasi,Fungsi,Sistem Bilangan,dan Teori Bilangan
 
 - Nama:Reni Putri Meisaroq
 - Nim:260306026
@@ -16,5 +15,14 @@ Menyediakan akses terbuka (open access) agar hasil penelitian mudah ditemukan da
 Meningkatkan visibilitas, reputasi, serta mendukung proses akreditasi institusi.
 
 # STUDI KASUS
--
+- Analisis Bilangan Menggunakan Fungsi Modular dalam Python
+
+# ALUR MATERI
+- 1.Fungsi Modular (Modular Programming)
+- 2.Bilangan Ganjil dan Genap
+- 3.Bilangan Prima
+- 4.FPB (Faktor Persekutua terbesar)
+- 5.KPK (Kelipatan Persekutuan Terkecil)
+- 6.Konversi Desimal Ke Heksadesimal 
+- 7.Implementasi Program Python
   
