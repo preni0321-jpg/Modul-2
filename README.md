@@ -6,13 +6,13 @@
 - Prodi:Teknologi Informasi
 
 # MAKSUD DAN TUJUAN REPOSTORY
-- Maksud: Sistem berbasis digital untuk menghimpun karya intelektual dan dokumen ilmiah yang dihasilkan oleh civitas akademika (skripsi, tesis, disertasi, jurnal, laporan penelitian, hingga buku digital).
+- Maksud:
+ Sistem berbasis digital untuk menghimpun karya intelektual dan dokumen ilmiah yang dihasilkan oleh civitas akademika       (skripsi, tesis, disertasi, jurnal, laporan penelitian, hingga buku digital).
 
-• Tujuan Utama:
-
-Melestarikan arsip dan warisan intelektual lembaga dalam jangka panjang.
-Menyediakan akses terbuka (open access) agar hasil penelitian mudah ditemukan dan dimanfaatkan oleh masyarakat luas.
-Meningkatkan visibilitas, reputasi, serta mendukung proses akreditasi institusi.
+- Tujuan Utama:
+ Melestarikan arsip dan warisan intelektual lembaga dalam jangka panjang.
+ Menyediakan akses terbuka (open access) agar hasil penelitian mudah ditemukan dan dimanfaatkan oleh masyarakat luas.
+ Meningkatkan visibilitas, reputasi, serta mendukung proses akreditasi institusi.
 
 # STUDI KASUS
 - Analisis Bilangan Menggunakan Fungsi Modular dalam Python
